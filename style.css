@@ -645,7 +645,7 @@ footer p {
     #msb {
         grid-area: msb;
         flex-direction: column;
-        background-image: url("../images/msb-hero.png");
+        background-image: url("msb-hero.png");
         background-color: rgba(255, 255, 255, 0.4);
         height: 400px;
         margin-left: 10%;
@@ -653,7 +653,7 @@ footer p {
     #epa-redesign {
         grid-area: govt;
         flex-direction: column;
-        background-image: url("../images/govt.png");
+        background-image: url("govt.png");
         background-color: rgba(255, 255, 255, 0.4);
         height: 400px;
         margin-left: 10%;
@@ -662,7 +662,7 @@ footer p {
     #app-1 {
         grid-area: buzzle;
         flex-direction: column;
-        background-image: url("../images/buzzle-1.png");
+        background-image: url("buzzle-1.png");
         background-color: rgba(255, 255, 255, 0.4);
         margin-left: 10%;
         height: 400px;
