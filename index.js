@@ -18,10 +18,11 @@ const toggleSidebar = () => {
 console.log("your index.js file is loaded correctly!");
 
 $("#bounce").click(function() {
-    for (var i = 1; i <= 3; i++) {
+    //for (var i = 1; i <= 3; i++) {
+    console.log("hi ryan");
         $(this).animate({ top: 30 }, "slow");
         $(this).animate({ top: 0 }, "slow");
-    }
+   // }
 });
 
 function toggleClass() {
